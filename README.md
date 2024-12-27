@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # XORA-WebDev
->>>>>>> 7514d77946575069a09d9b0c28a8554932d24af6
+
